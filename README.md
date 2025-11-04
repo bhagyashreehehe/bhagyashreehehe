@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning Frameworks, Flutter**
 
-- 💬 Ask me about **Machine Learning - Figma tricks - Designing stuff - Adobe Create Cloud!!**
+- 💬 Ask me about **Machine Learning - Figma tricks - Designing stuff - Adobe Creative Cloud!!**
 
 - 📫 How to reach me **bhagyashree0613@gmail.com**
 
